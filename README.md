@@ -6,9 +6,10 @@
 [![Build Status][travis-image]][travis-url]
 [![Twitter][twitter-image]][twitter-url]
 [![RSS][rss-image]][rss-url]
+[![Slack][slack-image]][slack-url]
 [![Stars][github-image]][github-url]
 
-> Перекладенo з дoзвoлу [Хува Колінґбурна](https://twitter.com/huwcol).  
+> Перекладенo з дoзвoлу [Хува Колінґбурна](https://twitter.com/huwcol).
 > Translated with permission from [Huw Collingbourne](https://twitter.com/huwcol).
 
 Ця книга є маленьким покроковим посібником для ознайомлення з мовою програмування Ruby.
@@ -100,3 +101,6 @@ Copyright © 2008 Dark Neon Ltd. All rights reserved.
 
 [github-url]: https://github.com/LambdaBooks/thelittlebookofruby
 [github-image]: https://img.shields.io/github/stars/LambdaBooks/thelittlebookofruby.svg?style=social&label=Star
+
+[slack-url]:  http://slack.lambdabooks.com
+[slack-image]: https://img.shields.io/badge/slack-Lambda%20Books-red.svg?style=flat-square
